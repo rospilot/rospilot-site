@@ -1,0 +1,9 @@
+[home]
+  Name = "Home"
+  URL = "/"
+  Weight = 1
+
+[github]
+  Name = "Github"
+  URL = "https://github.com/rospilot/rospilot"
+  Weight = 0

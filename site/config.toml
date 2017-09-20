@@ -1,0 +1,14 @@
+baseurl = "https://www.rospilot.com/"
+languageCode = "en-us"
+title = "Rospilot"
+theme = "hyde-y"
+
+[params]
+  brand = "Rospilot"
+  sidebar = "left"
+  toplink = " "
+  googleAnalytics = "UA-19659565-9"
+  github = "rospilot/rospilot"
+  facebook = "rospilot"
+  googleplus = "102245586381356501946"
+
